@@ -1,1 +1,15 @@
 HIIi HIBA BAHJATH!!!
+
+git status  status of the files in the local repository
+
+git add demo2.txt   add the untracked file to the staging area
+
+git commit -m "third one"   commit the file changes using a message inside
+
+git status   checking the status again
+
+git log   check the history of commits all through
+
+U - untracked files
+M - modified files
+A - added files
